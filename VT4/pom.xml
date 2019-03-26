@@ -3,19 +3,7 @@
   <groupId>VT4</groupId>
   <artifactId>VT4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>org.eclipse.jetty</groupId>
-      <artifactId>jetty-servlet</artifactId>
-      <version>9.4.7.v20170914</version>
-    </dependency>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>javax.servlet-api</artifactId>
-      <version>3.1.0</version>
-    </dependency>
-  </dependencies>
+  <packaging>war</packaging>  
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
